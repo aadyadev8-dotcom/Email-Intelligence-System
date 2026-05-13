@@ -1,1 +1,1 @@
-# Email-Intelligence-System
+# AI Email Assistant
